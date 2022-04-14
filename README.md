@@ -7,7 +7,7 @@ A plataform to handle media and stream for users.
 
 ## 🦄 Features
 
-- [ ] Upload media and get a link for stream
+- [X] Upload media and get a link for stream
 - [ ] Generate thumbnails for all uploaded videos
 - [ ] Allow to put metadata about video
 
